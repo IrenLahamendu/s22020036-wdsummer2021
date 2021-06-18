@@ -1,0 +1,45 @@
+/*p {
+    color: mediumblue;
+}
+
+p.one {
+    color: dimgrey;
+}
+
+p.two.more {
+    color: maroon;
+    border-width: 7px;
+    border-style: double;
+    border-color: mediumorchid;
+}*/
+#top-service{
+    background-color: rgb(35, 26, 37);
+}
+
+#bottom-service{
+    background-color: lightseagreen;
+}
+
+div .one {
+    color: purple;
+}
+
+a[href] {
+    font-size: 20px;
+    text-decoration: maroon;
+    text-transform: lowercase;
+}
+
+h2:hover {
+    color: midnightblue;
+    background-color: black;
+}
+
+p::selection {
+    background-color: purple;
+    color: rgb(245, 237, 237);
+}
+
+a::before {
+    content: "Link -";
+}
