@@ -1,0 +1,18 @@
+p.one img {
+    background-color: rgb(144, 195, 226);
+    border: 15px solid red;
+    margin: 0x;
+}
+
+p.two img {
+    background-color: rgb(144, 195, 226);
+    border: 15px solid red;
+    margin: 0px 155px;
+}
+
+p.three img {
+    background-color: rgb(144, 195, 226);
+    border: 15px solid red;
+    margin: 0px 312px;
+    
+}
